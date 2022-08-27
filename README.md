@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning python for backend-web at SLuiza \<Code> fifth edition.
+🌱 I’m currently learning python for backend-web at Luiza\<Code> fifth edition.
 
 <!--
 **anesoledar/anesoledar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
